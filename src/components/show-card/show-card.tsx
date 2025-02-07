@@ -9,14 +9,16 @@ import {
 import { es } from 'date-fns/locale'
 import { useLiveQuery } from 'dexie-react-hooks'
 import Link from 'next/link'
+import { useCurrentTime } from '~/hooks/use-current-time'
 import { db } from '~/lib/db'
+import { capitalize } from '~/utils'
 
 export function ShowCard({ show }: { show: Show }) {
   const favorite = useLiveQuery(async () => {
     return await db.favorites.get({ showId: show.id })
   })
 
-  const now = new Date('2025-02-15 18:37')
+  const now = useCurrentTime()
   const startsAt = show.day.startsAt
   const isStarted = compareAsc(new Date(show.startsAt), now) < 0
   const isFinished = compareAsc(new Date(show.endsAt), now) < 0
@@ -48,7 +50,7 @@ export function ShowCard({ show }: { show: Show }) {
         <span className="text-[10px] lg:text-xs text-ellipsis leading-3 overflow-hidden whitespace-nowrap text-neutral-500 group-data-[favorite=true]:text-white">
           {isFinished
             ? 'Finalizado'
-            : `${isStarted ? 'Empezó' : 'Empieza'} ${startingIn}`}
+            : `${isStarted ? `Empezó ${startingIn}` : capitalize(startingIn)}`}
         </span>
       </div>
     </Link>

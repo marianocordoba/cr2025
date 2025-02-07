@@ -10,8 +10,13 @@ import {
   DrawerHeader,
   DrawerTitle,
 } from '~/components/ui/drawer'
+import { useCurrentTime } from '~/hooks/use-current-time'
 import { db } from '~/lib/db'
-import { getColorFromString, getSignificantCharacters } from '~/utils'
+import {
+  capitalize,
+  getColorFromString,
+  getSignificantCharacters,
+} from '~/utils'
 import { Avatar, AvatarFallback, AvatarImage } from '../ui/avatar'
 import { Button } from '../ui/button'
 
@@ -20,7 +25,7 @@ export function ShowDrawer({ show }: { show: Show }) {
   const favorite = useLiveQuery(async () => {
     return await db.favorites.get({ showId: show.id })
   })
-  const now = new Date('2025-02-15 18:37')
+  const now = useCurrentTime()
   const isStarted = compareAsc(new Date(show.startsAt), now) < 0
   const isFinished = compareAsc(new Date(show.endsAt), now) < 0
   const startingIn = formatDistance(show.startsAt, now, {
@@ -80,10 +85,10 @@ export function ShowDrawer({ show }: { show: Show }) {
               <span> a las </span>
               {format(show.startsAt, 'HH:mm', { locale: es })}hs
             </span>
-            <span className="mb-4 font-sans text-xs text-neutral-400">
+            <span className="mb-4 font-sans text-xs text-neutral-500">
               {isFinished
                 ? 'Finalizado'
-                : `${isStarted ? 'Empezó' : 'Empieza'} ${startingIn}`}
+                : `${isStarted ? `Empezó ${startingIn}` : capitalize(startingIn)}`}
             </span>
             <Button
               variant={favorite ? 'outline' : 'default'}
@@ -95,7 +100,7 @@ export function ShowDrawer({ show }: { show: Show }) {
             </Button>
           </div>
         </div>
-        <div className="mt-2 px-4 flex flex-col bg-white border-t border-slate-200">
+        <div className="pt-2 px-4 flex flex-col bg-white border-t border-slate-200">
           <span className="pt-2 px-4 font-sans text-sm tracking-wider">
             Artistas
           </span>

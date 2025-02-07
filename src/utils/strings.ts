@@ -57,3 +57,7 @@ export function getSignificantCharacters(value: string): string {
     .map((word) => word.charAt(0))
     .join('')
 }
+
+export function capitalize(value: string): string {
+  return value.charAt(0).toUpperCase() + value.slice(1)
+}

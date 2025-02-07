@@ -50,7 +50,7 @@ export default function RootLayout({
   return (
     <html lang="es">
       <body className={cn(fontSans.variable, fontTitle.variable)}>
-        <header className="w-full h-16 bg-primary text-white">
+        <header className="w-full h-16 bg-neutral-900 text-white">
           <nav className="h-full px-4">
             <ul className="h-full flex items-center justify-around gap-4">
               <li>

@@ -6,7 +6,7 @@ import artists from './src/assets/data/artists.json'
 import shows from './src/assets/data/shows.json'
 
 export default async function config() {
-  const revision = await $`git rev-parse HEAD`.text()
+  const revision = await (await $`git rev-parse HEAD`.text()).trim()
 
   const withSerwist = withSerwistInit({
     swSrc: 'src/app/sw.ts',
