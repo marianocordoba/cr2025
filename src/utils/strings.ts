@@ -46,6 +46,10 @@ export function getColorFromString(value: string): string {
  * ```
  */
 export function getSignificantCharacters(value: string): string {
+  if (value.length <= 3) {
+    return value.toUpperCase()
+  }
+
   return value
     .split(' ')
     .filter((word) => word.length > 3)

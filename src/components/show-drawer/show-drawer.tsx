@@ -2,6 +2,7 @@
 
 import { compareAsc, format, formatDistance } from 'date-fns'
 import { es } from 'date-fns/locale'
+import { useLiveQuery } from 'dexie-react-hooks'
 import { useRouter } from 'next/navigation'
 import {
   Drawer,
@@ -9,12 +10,16 @@ import {
   DrawerHeader,
   DrawerTitle,
 } from '~/components/ui/drawer'
+import { db } from '~/lib/db'
 import { getColorFromString, getSignificantCharacters } from '~/utils'
 import { Avatar, AvatarFallback, AvatarImage } from '../ui/avatar'
 import { Button } from '../ui/button'
 
 export function ShowDrawer({ show }: { show: Show }) {
   const router = useRouter()
+  const favorite = useLiveQuery(async () => {
+    return await db.favorites.get({ showId: show.id })
+  })
   const now = new Date('2025-02-15 18:37')
   const isStarted = compareAsc(new Date(show.startsAt), now) < 0
   const isFinished = compareAsc(new Date(show.endsAt), now) < 0
@@ -22,6 +27,15 @@ export function ShowDrawer({ show }: { show: Show }) {
     addSuffix: true,
     locale: es,
   })
+
+  const handleToggleFavorite = async () => {
+    if (favorite) {
+      await db.favorites.delete(favorite.id)
+      return
+    }
+
+    await db.favorites.put({ showId: show.id })
+  }
 
   return (
     <Drawer open onOpenChange={() => router.back()}>
@@ -71,7 +85,14 @@ export function ShowDrawer({ show }: { show: Show }) {
                 ? 'Finalizado'
                 : `${isStarted ? 'Empezó' : 'Empieza'} ${startingIn}`}
             </span>
-            <Button onClick={() => router.back()}>Agregar a mi grilla</Button>
+            <Button
+              variant={favorite ? 'outline' : 'default'}
+              className="data-[favorite=true]:bg-transparent data-[favorite=true]:border-accent data-[favorite=true]:text-accent"
+              data-favorite={!!favorite}
+              onClick={handleToggleFavorite}
+            >
+              {favorite ? 'Eliminar de mi grilla' : 'Agregar a mi grilla'}
+            </Button>
           </div>
         </div>
         <div className="mt-2 px-4 flex flex-col bg-white border-t border-slate-200">

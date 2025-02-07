@@ -2,6 +2,7 @@ import withSerwistInit from '@serwist/next'
 import type { NextConfig } from 'next'
 import { $ } from 'zx'
 
+import artists from './src/assets/data/artists.json'
 import shows from './src/assets/data/shows.json'
 
 export default async function config() {
@@ -15,6 +16,12 @@ export default async function config() {
         url: `/shows/${show.id}`,
         revision,
       })),
+      ...artists
+        .filter((artist) => artist.image)
+        .map((artist) => ({
+          url: `/images/${artist.image}`,
+          revision,
+        })),
       { url: '/~offline', revision },
     ],
   })
@@ -22,6 +29,9 @@ export default async function config() {
   const nextConfig: NextConfig = {
     reactStrictMode: true,
     output: 'export',
+    devIndicators: {
+      appIsrStatus: false,
+    },
   }
 
   return withSerwist(nextConfig)
