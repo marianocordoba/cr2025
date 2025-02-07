@@ -1,0 +1,2734 @@
+[
+  {
+    "id": "01dxp42pw",
+    "title": "Vinocio",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "h6opa40fnc",
+      "name": "Boomerang"
+    },
+    "artists": [
+      {
+        "id": "ue4dtuw46",
+        "name": "Vinocio",
+        "image": "ue4dtuw46.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/73yh69zlE05t6t0dC3C55p",
+          "instagram": "https://www.instagram.com/vinocioclub/",
+          "youtube": "https://www.youtube.com/@vinocio5284"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T19:30:00.000Z",
+    "endsAt": "2025-02-15T20:10:00.000Z"
+  },
+  {
+    "id": "0ewaqv9gx",
+    "title": "deadmau5",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "14tfu8rogm",
+      "name": "Montaña"
+    },
+    "artists": [
+      {
+        "id": "yt9tglebv",
+        "name": "deadmau5",
+        "image": "yt9tglebv.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/2CIMQHirSU0MQqyYHq0eOx",
+          "instagram": "https://www.instagram.com/deadmau5/",
+          "youtube": "https://www.youtube.com/@deadmau5"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T23:40:00.000Z",
+    "endsAt": "2025-02-17T02:00:00.000Z"
+  },
+  {
+    "id": "0h42ix9f8",
+    "title": "WOS",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "2oc4f11x56",
+      "name": "Sur"
+    },
+    "artists": [
+      {
+        "id": "ivy21ofo4",
+        "name": "WOS",
+        "image": "ivy21ofo4.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK",
+          "instagram": "https://www.instagram.com/wos.ds3/",
+          "youtube": "https://www.youtube.com/@WOSDS3"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T22:40:00.000Z",
+    "endsAt": "2025-02-16T00:30:00.000Z"
+  },
+  {
+    "id": "138v6p77k",
+    "title": "Conociendo Rusia",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "14tfu8rogm",
+      "name": "Montaña"
+    },
+    "artists": [
+      {
+        "id": "sqertrk2k",
+        "name": "Conociendo Rusia",
+        "image": "sqertrk2k.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2",
+          "instagram": "https://www.instagram.com/conociendorusia/",
+          "youtube": "https://www.youtube.com/@conociendorusia"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T01:40:00.000Z",
+    "endsAt": "2025-02-16T02:50:00.000Z"
+  },
+  {
+    "id": "1a7c8ows9",
+    "title": "Julian Jeweil",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "14tfu8rogm",
+      "name": "Montaña"
+    },
+    "artists": [
+      {
+        "id": "bc42r30y0",
+        "name": "Julian Jeweil",
+        "image": "bc42r30y0.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/3C046bLxNmvBQyaucinAhf",
+          "instagram": "https://www.instagram.com/julianjeweil/",
+          "youtube": "https://www.youtube.com/channel/UCKzIXSa06xzMk4J3eJzicMA"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T04:00:00.000Z",
+    "endsAt": "2025-02-16T04:50:00.000Z"
+  },
+  {
+    "id": "1vthm5w6k",
+    "title": "Ratones Paranoicos",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "2oc4f11x56",
+      "name": "Sur"
+    },
+    "artists": [
+      {
+        "id": "jji3cysmx",
+        "name": "Ratones Paranoicos",
+        "image": "jji3cysmx.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c",
+          "instagram": "https://www.instagram.com/ratonesparanoicos",
+          "youtube": "https://www.youtube.com/@RatonesParanoicos"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T03:30:00.000Z",
+    "endsAt": "2025-02-16T04:30:00.000Z"
+  },
+  {
+    "id": "20w8xwjnu",
+    "title": "Los Tipitos",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "2oc4f11x56",
+      "name": "Sur"
+    },
+    "artists": [
+      {
+        "id": "sk5onq6d8",
+        "name": "Los Tipitos",
+        "image": "sk5onq6d8.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt",
+          "instagram": "https://www.instagram.com/tipitosoficial",
+          "youtube": "https://www.youtube.com/@tipitosoficial"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T19:30:00.000Z",
+    "endsAt": "2025-02-15T20:40:00.000Z"
+  },
+  {
+    "id": "25ld80fg4",
+    "title": "Sol Ortega",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "axlvnbb39",
+      "name": "Hangar Club"
+    },
+    "artists": [
+      {
+        "id": "jv8g3s1i2",
+        "name": "Sol Ortega",
+        "image": "jv8g3s1i2.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/1a8L1wFGuk1SDOmAXhnvmO",
+          "instagram": "https://www.instagram.com/solortegadj/",
+          "youtube": null
+        }
+      }
+    ],
+    "startsAt": "2025-02-17T00:00:00.000Z",
+    "endsAt": "2025-02-17T01:00:00.000Z"
+  },
+  {
+    "id": "2f4ukrfze",
+    "title": "Sol Bassa",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "podwz2qu0n",
+      "name": "La Casita del Blues"
+    },
+    "artists": [
+      {
+        "id": "os15ixhoe",
+        "name": "Sol Bassa",
+        "image": "os15ixhoe.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/1cttIh2Jh0yR5nxfBmRF6O",
+          "instagram": "https://www.instagram.com/sol.bassa/",
+          "youtube": "https://www.youtube.com/@SolBassa"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T20:25:00.000Z",
+    "endsAt": "2025-02-16T21:10:00.000Z"
+  },
+  {
+    "id": "2sdlpmiu7",
+    "title": "Daniela Milagros",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "2oc4f11x56",
+      "name": "Sur"
+    },
+    "artists": [
+      {
+        "id": "b2betrtoe",
+        "name": "Daniela Milagros",
+        "image": "b2betrtoe.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/63rlbkR6zIzPK9AoF1cGLj",
+          "instagram": "https://www.instagram.com/danielamilagros/",
+          "youtube": "https://www.youtube.com/@danielamilagros"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T17:30:00.000Z",
+    "endsAt": "2025-02-16T18:10:00.000Z"
+  },
+  {
+    "id": "35x4cg4k0",
+    "title": "Cruzando el Charco",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "14tfu8rogm",
+      "name": "Montaña"
+    },
+    "artists": [
+      {
+        "id": "586wvvwp4",
+        "name": "Cruzando el Charco",
+        "image": "586wvvwp4.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z",
+          "instagram": "https://www.instagram.com/elcharcolaplata/",
+          "youtube": "https://www.youtube.com/@ElCharcoLaPlata"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T20:10:00.000Z",
+    "endsAt": "2025-02-15T21:30:00.000Z"
+  },
+  {
+    "id": "3nc09epux",
+    "title": "Yulie y Vane Ruth",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "podwz2qu0n",
+      "name": "La Casita del Blues"
+    },
+    "artists": [
+      {
+        "id": "aasltrbda",
+        "name": "Yulie Ruth",
+        "image": "aasltrbda.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/1lHoamuBFxyANs8faAHYS0",
+          "instagram": "https://www.instagram.com/yulieruth_country/",
+          "youtube": "https://www.youtube.com/@yulieruthOficial"
+        }
+      },
+      {
+        "id": "v0md2pi8a",
+        "name": "Vane Ruth",
+        "image": "v0md2pi8a.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/5K69pNf44s8uiM9WZjDWpq",
+          "instagram": "https://www.instagram.com/vaneruth_/",
+          "youtube": "https://www.youtube.com/@VaneRuth"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T19:55:00.000Z",
+    "endsAt": "2025-02-15T20:40:00.000Z"
+  },
+  {
+    "id": "4fz792wx4",
+    "title": "Rosa Profunda",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "5dsdf3f1pt",
+      "name": "Paraguay"
+    },
+    "artists": [
+      {
+        "id": "brydjtg1r",
+        "name": "Rosa Profunda",
+        "image": "brydjtg1r.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/2KhlVX4UoRH2qsJRLIelDs",
+          "instagram": "https://www.instagram.com/rosaprofunda/",
+          "youtube": "https://www.youtube.com/@rosaprofunda"
+        }
+      }
+    ],
+    "startsAt": "2025-02-17T01:30:00.000Z",
+    "endsAt": "2025-02-17T02:20:00.000Z"
+  },
+  {
+    "id": "4g7ely3yd",
+    "title": "Manu Martínez",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "5dsdf3f1pt",
+      "name": "Paraguay"
+    },
+    "artists": [
+      {
+        "id": "xnmvwf4tm",
+        "name": "Manu Martínez",
+        "image": "xnmvwf4tm.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/37P2y0CGo3jIcG0QIIJQfS?si=RUL_dLrhT9Ce5AEL4KZedQ",
+          "instagram": "https://www.instagram.com/manuumartinez_99/",
+          "youtube": "https://www.youtube.com/@ManuMartinezOk"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T19:00:00.000Z",
+    "endsAt": "2025-02-16T19:40:00.000Z"
+  },
+  {
+    "id": "4kbecf4dy",
+    "title": "BLAIR",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "14tfu8rogm",
+      "name": "Montaña"
+    },
+    "artists": [
+      {
+        "id": "skb71wkrq",
+        "name": "BLAIR",
+        "image": "skb71wkrq.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/5sSn8vGaBxIKeCclAk67TJ",
+          "instagram": "https://www.instagram.com/blair.bladdee/",
+          "youtube": "https://www.youtube.com/@blairbladdee"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T18:50:00.000Z",
+    "endsAt": "2025-02-16T20:10:00.000Z"
+  },
+  {
+    "id": "54cxj4hm2",
+    "title": "Hilda Canta a Charly",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "plzp7h020v",
+      "name": "Norte"
+    },
+    "artists": [
+      {
+        "id": "vgcer1nju",
+        "name": "Hilda Canta a Charly",
+        "image": "vgcer1nju.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn",
+          "instagram": "https://www.instagram.com/hildalizarazu/",
+          "youtube": "https://www.youtube.com/@HILDALIZARAZUCanalOficial"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T19:30:00.000Z",
+    "endsAt": "2025-02-15T20:40:00.000Z"
+  },
+  {
+    "id": "55ubo9yw6",
+    "title": "No Te Va Gustar",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "14tfu8rogm",
+      "name": "Montaña"
+    },
+    "artists": [
+      {
+        "id": "a2jp1b8o6",
+        "name": "No Te Va Gustar",
+        "image": "a2jp1b8o6.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j",
+          "instagram": "https://www.instagram.com/notevagustaroficial/",
+          "youtube": "https://www.youtube.com/@NoTeVaGustarOficial"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T23:40:00.000Z",
+    "endsAt": "2025-02-16T01:30:00.000Z"
+  },
+  {
+    "id": "5dysg0ear",
+    "title": "Wayra Iglesias",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "2oc4f11x56",
+      "name": "Sur"
+    },
+    "artists": [
+      {
+        "id": "ol4ig06yy",
+        "name": "Wayra Iglesias",
+        "image": "ol4ig06yy.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/1N7yGYBWACnuv2xw0QGdvw",
+          "instagram": "https://www.instagram.com/wayra_iglesias",
+          "youtube": "https://www.youtube.com/@Wayraiglesias"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T18:20:00.000Z",
+    "endsAt": "2025-02-16T19:20:00.000Z"
+  },
+  {
+    "id": "5gzj3t3dh",
+    "title": "Toyo Bagoso y Claudia Sette",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "podwz2qu0n",
+      "name": "La Casita del Blues"
+    },
+    "artists": [
+      {
+        "id": "x5nilb2fk",
+        "name": "Claudia Sette",
+        "image": "x5nilb2fk.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/3mt2NawBkn5T1HE94cYV2M",
+          "instagram": "https://www.instagram.com/claudiasette77/",
+          "youtube": "https://www.youtube.com/@claudiasette7"
+        }
+      },
+      {
+        "id": "sxggjh60a",
+        "name": "Toyo Bagoso",
+        "image": null,
+        "links": {
+          "spotify": null,
+          "instagram": "https://www.instagram.com/toyobagoso/",
+          "youtube": null
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T23:10:00.000Z",
+    "endsAt": "2025-02-16T00:05:00.000Z"
+  },
+  {
+    "id": "624qsgn97",
+    "title": "DJs Pareja",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "axlvnbb39",
+      "name": "Hangar Club"
+    },
+    "artists": [
+      {
+        "id": "lx6ob44o0",
+        "name": "DJs Pareja",
+        "image": "lx6ob44o0.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/5oTo90z4UYa7QUQ3Je3dQ7",
+          "instagram": "https://www.instagram.com/djspareja",
+          "youtube": "https://www.youtube.com/@djspareja"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T01:00:00.000Z",
+    "endsAt": "2025-02-16T02:00:00.000Z"
+  },
+  {
+    "id": "649bkddwi",
+    "title": "Vapors of Morphine",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "5dsdf3f1pt",
+      "name": "Paraguay"
+    },
+    "artists": [
+      {
+        "id": "t0fwzblnv",
+        "name": "Vapors of Morphine",
+        "image": "t0fwzblnv.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/3hKQ0ei5p0h3z6yicNvbna",
+          "instagram": "https://www.instagram.com/vaporsofmorphine/",
+          "youtube": "https://www.youtube.com/channel/UCT3oe0jZDJLHScPyZCMxliQ"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T22:00:00.000Z",
+    "endsAt": "2025-02-16T23:00:00.000Z"
+  },
+  {
+    "id": "69cfhs4fx",
+    "title": "La Vela Puerca",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "14tfu8rogm",
+      "name": "Montaña"
+    },
+    "artists": [
+      {
+        "id": "205uythle",
+        "name": "La Vela Puerca",
+        "image": "205uythle.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL",
+          "instagram": "https://www.instagram.com/lavela_oficial/",
+          "youtube": "https://www.youtube.com/@velapuercavideos"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T21:40:00.000Z",
+    "endsAt": "2025-02-15T23:30:00.000Z"
+  },
+  {
+    "id": "6u4aace43",
+    "title": "Tributo a Pappo",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "podwz2qu0n",
+      "name": "La Casita del Blues"
+    },
+    "artists": [
+      {
+        "id": "303f0p1su",
+        "name": "Don Vilanova Botafogo",
+        "image": "303f0p1su.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/74iLgy7TMiwthOGMfGob53",
+          "instagram": "https://www.instagram.com/donvilanovabotafogo/",
+          "youtube": "https://www.youtube.com/channel/UCALHqJjeXUCoXXKXFmbC9EQ"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T01:40:00.000Z",
+    "endsAt": "2025-02-16T02:40:00.000Z"
+  },
+  {
+    "id": "77ll63cdm",
+    "title": "El Plan de la Mariposa",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "h6opa40fnc",
+      "name": "Boomerang"
+    },
+    "artists": [
+      {
+        "id": "9lmq73cgt",
+        "name": "El Plan de la Mariposa",
+        "image": "9lmq73cgt.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir",
+          "instagram": "https://www.instagram.com/elplandelamariposa/",
+          "youtube": "https://www.youtube.com/@Elplandelamariposa"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T00:30:00.000Z",
+    "endsAt": "2025-02-16T01:40:00.000Z"
+  },
+  {
+    "id": "7gf9ijids",
+    "title": "La Chancha Muda",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "2oc4f11x56",
+      "name": "Sur"
+    },
+    "artists": [
+      {
+        "id": "y4fpkg3sc",
+        "name": "La Chancha Muda",
+        "image": "y4fpkg3sc.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/3q7B22drORYGk4srVegr3T",
+          "instagram": "https://www.instagram.com/lachanchamuda/",
+          "youtube": "https://www.youtube.com/@LaChanchaMudaOficial"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T19:30:00.000Z",
+    "endsAt": "2025-02-16T20:40:00.000Z"
+  },
+  {
+    "id": "7gx8b2n4g",
+    "title": "Cindy Coleoni Band",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "podwz2qu0n",
+      "name": "La Casita del Blues"
+    },
+    "artists": [
+      {
+        "id": "nmragyrij",
+        "name": "Cindy Coleoni Band",
+        "image": "nmragyrij.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/3UNoJ0coWa8lZXRNReDhr0",
+          "instagram": "https://www.instagram.com/cindycoleoni/",
+          "youtube": "https://www.youtube.com/@CindyColeoni"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T19:20:00.000Z",
+    "endsAt": "2025-02-16T20:15:00.000Z"
+  },
+  {
+    "id": "855l8icqq",
+    "title": "The Rhythm Gamblers",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "podwz2qu0n",
+      "name": "La Casita del Blues"
+    },
+    "artists": [
+      {
+        "id": "phoxhzvi2",
+        "name": "The Rhythm Gamblers",
+        "image": null,
+        "links": {
+          "spotify": null,
+          "instagram": "https://www.instagram.com/trgamblers/",
+          "youtube": "https://www.youtube.com/@therhythmgamblers"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T22:25:00.000Z",
+    "endsAt": "2025-02-16T23:20:00.000Z"
+  },
+  {
+    "id": "8c6jr135f",
+    "title": "Zoe Gotusso",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "5dsdf3f1pt",
+      "name": "Paraguay"
+    },
+    "artists": [
+      {
+        "id": "lbzvsoobe",
+        "name": "Zoe Gotusso",
+        "image": "lbzvsoobe.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/3XBw8ImFEo86mEB2dYh0vS",
+          "instagram": "https://www.instagram.com/zoegotusso/",
+          "youtube": "https://www.youtube.com/@ZoeGotusso"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T21:00:00.000Z",
+    "endsAt": "2025-02-16T21:50:00.000Z"
+  },
+  {
+    "id": "8m23zabeh",
+    "title": "Guasones",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "2oc4f11x56",
+      "name": "Sur"
+    },
+    "artists": [
+      {
+        "id": "9ek4a17db",
+        "name": "Guasones",
+        "image": "9ek4a17db.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o",
+          "instagram": "https://www.instagram.com/guasones/",
+          "youtube": "https://www.youtube.com/@guasones"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T20:50:00.000Z",
+    "endsAt": "2025-02-15T22:30:00.000Z"
+  },
+  {
+    "id": "8rk7sko9d",
+    "title": "Airbag",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "plzp7h020v",
+      "name": "Norte"
+    },
+    "artists": [
+      {
+        "id": "9keai4e6s",
+        "name": "Airbag",
+        "image": "9keai4e6s.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr",
+          "instagram": "https://www.instagram.com/airbag.oficial",
+          "youtube": "https://www.youtube.com/@AIRBAGOficial"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T00:40:00.000Z",
+    "endsAt": "2025-02-16T02:00:00.000Z"
+  },
+  {
+    "id": "8w8oc233m",
+    "title": "El Zar",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "14tfu8rogm",
+      "name": "Montaña"
+    },
+    "artists": [
+      {
+        "id": "v13i885vf",
+        "name": "El Zar",
+        "image": "v13i885vf.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi",
+          "instagram": "https://www.instagram.com/elzarmusica/",
+          "youtube": "https://www.youtube.com/@ElZarMusica"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T18:50:00.000Z",
+    "endsAt": "2025-02-15T20:00:00.000Z"
+  },
+  {
+    "id": "9uqekj9zx",
+    "title": "K4",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "plzp7h020v",
+      "name": "Norte"
+    },
+    "artists": [
+      {
+        "id": "w40c2vg2p",
+        "name": "K4",
+        "image": null,
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/0yjlGMMFuIci8JCTAOb2AU",
+          "instagram": "https://www.instagram.com/k4gothetaste/",
+          "youtube": "https://www.youtube.com/@K4gothetaste"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T17:30:00.000Z",
+    "endsAt": "2025-02-16T18:10:00.000Z"
+  },
+  {
+    "id": "a580t7b8w",
+    "title": "Space 92 + Popof",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "14tfu8rogm",
+      "name": "Montaña"
+    },
+    "artists": [
+      {
+        "id": "f4tunyvq6",
+        "name": "Popof",
+        "image": "f4tunyvq6.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB",
+          "instagram": "https://www.instagram.com/popof_official/",
+          "youtube": "https://www.youtube.com/@popofofficial518"
+        }
+      },
+      {
+        "id": "btcw8w4s9",
+        "name": "Space 92",
+        "image": "btcw8w4s9.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD",
+          "instagram": "https://www.instagram.com/space92__official/",
+          "youtube": "https://www.youtube.com/@space92music"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T05:00:00.000Z",
+    "endsAt": "2025-02-16T06:00:00.000Z"
+  },
+  {
+    "id": "aeanbuxx5",
+    "title": "Peces Raros",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "14tfu8rogm",
+      "name": "Montaña"
+    },
+    "artists": [
+      {
+        "id": "al99oxbu8",
+        "name": "Peces Raros",
+        "image": "al99oxbu8.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/5UI7HXsBEfRSsf0T4t48Q9",
+          "instagram": "https://www.instagram.com/peces.raros/",
+          "youtube": "https://www.youtube.com/@pecesrarosargentina"
+        }
+      }
+    ],
+    "startsAt": "2025-02-17T03:20:00.000Z",
+    "endsAt": "2025-02-17T04:20:00.000Z"
+  },
+  {
+    "id": "bgv2sh1zt",
+    "title": "Maia Dros",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "axlvnbb39",
+      "name": "Hangar Club"
+    },
+    "artists": [
+      {
+        "id": "tcmohi4uq",
+        "name": "Maia Dros",
+        "image": null,
+        "links": {
+          "spotify": "https://open.spotify.com/user/11155286750",
+          "instagram": null,
+          "youtube": null
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T21:00:00.000Z",
+    "endsAt": "2025-02-16T21:50:00.000Z"
+  },
+  {
+    "id": "bno3g186j",
+    "title": "Lupe",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "axlvnbb39",
+      "name": "Hangar Club"
+    },
+    "artists": [
+      {
+        "id": "ywtkrnfyc",
+        "name": "Lupe",
+        "image": "ywtkrnfyc.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j",
+          "instagram": "https://www.instagram.com/lvpe_",
+          "youtube": "https://www.youtube.com/@lupelupe"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T00:00:00.000Z",
+    "endsAt": "2025-02-16T00:50:00.000Z"
+  },
+  {
+    "id": "bv52xwv54",
+    "title": "Los Piojos",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "2oc4f11x56",
+      "name": "Sur"
+    },
+    "artists": [
+      {
+        "id": "y3tz3i8r0",
+        "name": "Los Piojos",
+        "image": "y3tz3i8r0.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/0SnyKkoyBaB2fG8IJH4xmU",
+          "instagram": "https://www.instagram.com/lospiojosoficial/",
+          "youtube": "https://www.youtube.com/channel/UCnSnDYos8UDuKTvfwoD6KSw"
+        }
+      }
+    ],
+    "startsAt": "2025-02-17T01:00:00.000Z",
+    "endsAt": "2025-02-17T02:00:00.000Z"
+  },
+  {
+    "id": "c16gowqsc",
+    "title": "Javiera Mena",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "5dsdf3f1pt",
+      "name": "Paraguay"
+    },
+    "artists": [
+      {
+        "id": "f9m74etia",
+        "name": "Javiera Mena",
+        "image": "f9m74etia.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/6c0qylj1D1gqcUUN2P8Ofp",
+          "instagram": "https://www.instagram.com/javieramena",
+          "youtube": "https://www.youtube.com/@canaljavieramena"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T19:50:00.000Z",
+    "endsAt": "2025-02-16T20:50:00.000Z"
+  },
+  {
+    "id": "cb2fp8ere",
+    "title": "NAFTA",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "plzp7h020v",
+      "name": "Norte"
+    },
+    "artists": [
+      {
+        "id": "67376e9rz",
+        "name": "NAFTA",
+        "image": "67376e9rz.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/5pg9cOudU7ezj3FnUABgu6",
+          "instagram": "https://www.instagram.com/naftaoficial/",
+          "youtube": "https://www.youtube.com/@NAFTAOFICIAL"
+        }
+      }
+    ],
+    "startsAt": "2025-02-17T02:00:00.000Z",
+    "endsAt": "2025-02-17T02:50:00.000Z"
+  },
+  {
+    "id": "d3nzbbev1",
+    "title": "Cesar Valdomir, Mari Polé y Nico Raffetta",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "podwz2qu0n",
+      "name": "La Casita del Blues"
+    },
+    "artists": [
+      {
+        "id": "19ojcfa1t",
+        "name": "Cesar Valdomir",
+        "image": "19ojcfa1t.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/1mQtzhOA4sWTm8HDeL4beF",
+          "instagram": "https://www.instagram.com/cesarvaldomir/",
+          "youtube": "https://www.youtube.com/@sonnyboyharp3"
+        }
+      },
+      {
+        "id": "qacbvx8lt",
+        "name": "Mari Polé",
+        "image": null,
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/0fkDQY5kgJpBTFy8bElfqY",
+          "instagram": "https://www.instagram.com/maripoleartista/",
+          "youtube": "https://www.youtube.com/@maripole"
+        }
+      },
+      {
+        "id": "l7140houc",
+        "name": "Nico Raffetta",
+        "image": null,
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/2GEbQc6wVsMIa0hbnRRVjO",
+          "instagram": "https://www.instagram.com/nico_raffetta/",
+          "youtube": "https://www.youtube.com/channel/UC03LkunZkipnYENMg9W8lXw"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T21:20:00.000Z",
+    "endsAt": "2025-02-16T22:15:00.000Z"
+  },
+  {
+    "id": "dbrzcfkqm",
+    "title": "Emmanuel Horvilleur",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "h6opa40fnc",
+      "name": "Boomerang"
+    },
+    "artists": [
+      {
+        "id": "5gsobkm43",
+        "name": "Emmanuel Horvilleur",
+        "image": "5gsobkm43.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI",
+          "instagram": "https://www.instagram.com/emmanuelhorvilleur/",
+          "youtube": "https://www.youtube.com/@emmanuelhorvilleur"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T23:30:00.000Z",
+    "endsAt": "2025-02-16T00:20:00.000Z"
+  },
+  {
+    "id": "djjufr9lj",
+    "title": "Gaba",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "axlvnbb39",
+      "name": "Hangar Club"
+    },
+    "artists": [
+      {
+        "id": "5v3hwmut5",
+        "name": "Gaba",
+        "image": null,
+        "links": {
+          "spotify": null,
+          "instagram": "https://www.instagram.com/gaba_transpop/",
+          "youtube": "https://www.youtube.com/@gaba_transpop"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T21:00:00.000Z",
+    "endsAt": "2025-02-15T22:50:00.000Z"
+  },
+  {
+    "id": "duprhdxry",
+    "title": "Jóvenes Pordioseros",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "2oc4f11x56",
+      "name": "Sur"
+    },
+    "artists": [
+      {
+        "id": "irw6tbyip",
+        "name": "Jóvenes Pordioseros",
+        "image": "irw6tbyip.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4",
+          "instagram": "https://www.instagram.com/jovenespordioseros",
+          "youtube": "https://www.youtube.com/@jovenespordioserosoficial1319"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T18:20:00.000Z",
+    "endsAt": "2025-02-15T19:20:00.000Z"
+  },
+  {
+    "id": "e19v8mt4v",
+    "title": "Hijo de la Tormenta",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "5dsdf3f1pt",
+      "name": "Paraguay"
+    },
+    "artists": [
+      {
+        "id": "plmqzvau6",
+        "name": "Hijo de la Tormenta",
+        "image": "plmqzvau6.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/2UsQ930afdxQNhhxr5krOm",
+          "instagram": "https://www.instagram.com/hijo.de.la.tormenta/",
+          "youtube": "https://www.youtube.com/channel/UCZXdtRIml6uyLEhJYX6Orrw"
+        }
+      }
+    ],
+    "startsAt": "2025-02-17T02:30:00.000Z",
+    "endsAt": "2025-02-17T03:30:00.000Z"
+  },
+  {
+    "id": "efvbr30lu",
+    "title": "Las Pelotas",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "2oc4f11x56",
+      "name": "Sur"
+    },
+    "artists": [
+      {
+        "id": "6rarstuov",
+        "name": "Las Pelotas",
+        "image": "6rarstuov.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/1Qv4E1VgZOGnOYd99Kp5Bs",
+          "instagram": "https://www.instagram.com/laspelotas/",
+          "youtube": "https://www.youtube.com/@laspelotasweb"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T22:10:00.000Z",
+    "endsAt": "2025-02-16T23:20:00.000Z"
+  },
+  {
+    "id": "fcz2m3uyn",
+    "title": "Marlane Suchy & The Super Sax",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "podwz2qu0n",
+      "name": "La Casita del Blues"
+    },
+    "artists": [
+      {
+        "id": "v887tou6i",
+        "name": "Marlane Suchy & The Super Sax",
+        "image": "v887tou6i.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/2CqWOlxJlwwjFNfvLtuuvP",
+          "instagram": "https://www.instagram.com/marlenesuchy/",
+          "youtube": "https://www.youtube.com/@MARLENEREYESSUCHY"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T18:25:00.000Z",
+    "endsAt": "2025-02-16T19:10:00.000Z"
+  },
+  {
+    "id": "g6rswdrfg",
+    "title": "J Catriel",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "axlvnbb39",
+      "name": "Hangar Club"
+    },
+    "artists": [
+      {
+        "id": "06f3025fe",
+        "name": "J Catriel",
+        "image": null,
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/3DcweuVidzAfVGEo8EX8Lz",
+          "instagram": "https://www.instagram.com/j_catriel/",
+          "youtube": "https://www.youtube.com/channel/UCLvnftKmRw44_bqqdPtqM5A"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T22:00:00.000Z",
+    "endsAt": "2025-02-16T22:50:00.000Z"
+  },
+  {
+    "id": "haxquiarm",
+    "title": "Los Espíritus",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "podwz2qu0n",
+      "name": "La Casita del Blues"
+    },
+    "artists": [
+      {
+        "id": "nvgxr91sw",
+        "name": "Los Espíritus",
+        "image": "nvgxr91sw.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0",
+          "instagram": "https://www.instagram.com/los.espiritus/",
+          "youtube": "https://www.youtube.com/@los.espiritus"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T21:55:00.000Z",
+    "endsAt": "2025-02-15T23:00:00.000Z"
+  },
+  {
+    "id": "iiuedwoqh",
+    "title": "Los Auténticos Decadentes",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "plzp7h020v",
+      "name": "Norte"
+    },
+    "artists": [
+      {
+        "id": "teucdaofr",
+        "name": "Los Auténticos Decadentes",
+        "image": "teucdaofr.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj",
+          "instagram": "https://www.instagram.com/autenticosdecadentes/",
+          "youtube": "https://www.youtube.com/@losautenticosdecadentes"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T03:40:00.000Z",
+    "endsAt": "2025-02-16T04:40:00.000Z"
+  },
+  {
+    "id": "iubqtips7",
+    "title": "Massacre",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "5dsdf3f1pt",
+      "name": "Paraguay"
+    },
+    "artists": [
+      {
+        "id": "20q45ectq",
+        "name": "Massacre",
+        "image": "20q45ectq.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/0UAAJKwQZz8jVDoVtly8NA",
+          "instagram": "https://www.instagram.com/massacre_oficial/?hl=es-la",
+          "youtube": "https://www.youtube.com/channel/UC4c1SEUPrul4_b_yYSGNcbg"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T23:10:00.000Z",
+    "endsAt": "2025-02-17T00:20:00.000Z"
+  },
+  {
+    "id": "j8gy045fq",
+    "title": "Stiffy y AgusFortnite2008",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "plzp7h020v",
+      "name": "Norte"
+    },
+    "artists": [
+      {
+        "id": "fzxx3yhc1",
+        "name": "AgusFortnite2008",
+        "image": "fzxx3yhc1.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/6S0NgDvO6FINUMYschvqZe",
+          "instagram": "https://www.instagram.com/agusfortnite2008",
+          "youtube": "https://www.youtube.com/@AgustinFortnite2008"
+        }
+      },
+      {
+        "id": "bvtcw0kl3",
+        "name": "Stiffy",
+        "image": "bvtcw0kl3.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/7g7N6cRr5izWiIWvffgwWO",
+          "instagram": "https://www.instagram.com/sstiffy",
+          "youtube": "https://www.youtube.com/channel/UCmm5G2xrBFImC_BYXlaKFUA"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T18:20:00.000Z",
+    "endsAt": "2025-02-16T19:20:00.000Z"
+  },
+  {
+    "id": "jwatgbe4w",
+    "title": "Los Bufalos sedientos",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "podwz2qu0n",
+      "name": "La Casita del Blues"
+    },
+    "artists": [
+      {
+        "id": "sa8a5ya9q",
+        "name": "Los Bufalos sedientos",
+        "image": null,
+        "links": {
+          "spotify": null,
+          "instagram": "https://www.instagram.com/losbufalossedientosrock/",
+          "youtube": "https://www.youtube.com/@losbufalossedientos8372"
+        }
+      }
+    ],
+    "startsAt": "2025-02-17T01:45:00.000Z",
+    "endsAt": "2025-02-17T02:45:00.000Z"
+  },
+  {
+    "id": "jxoo3b2v6",
+    "title": "Bhavi",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "plzp7h020v",
+      "name": "Norte"
+    },
+    "artists": [
+      {
+        "id": "kr48etgqt",
+        "name": "Bhavi",
+        "image": "kr48etgqt.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/7fT2Me47PQ8T7954PKrcwR",
+          "instagram": "https://www.instagram.com/bhaviboi/",
+          "youtube": "https://www.youtube.com/@bhaviboi"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T19:30:00.000Z",
+    "endsAt": "2025-02-16T20:40:00.000Z"
+  },
+  {
+    "id": "kdak43oxg",
+    "title": "Dillom",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "plzp7h020v",
+      "name": "Norte"
+    },
+    "artists": [
+      {
+        "id": "rhq2nrb8i",
+        "name": "Dillom",
+        "image": "rhq2nrb8i.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2",
+          "instagram": "https://www.instagram.com/rip.dillom/",
+          "youtube": "https://www.youtube.com/@DILLOM"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T02:10:00.000Z",
+    "endsAt": "2025-02-16T03:30:00.000Z"
+  },
+  {
+    "id": "krbei86vn",
+    "title": "Santi Celli",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "plzp7h020v",
+      "name": "Norte"
+    },
+    "artists": [
+      {
+        "id": "wuawx9mxm",
+        "name": "Santi Celli",
+        "image": "wuawx9mxm.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF",
+          "instagram": "https://www.instagram.com/santicelli",
+          "youtube": "https://www.youtube.com/@SantiCelli"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T17:30:00.000Z",
+    "endsAt": "2025-02-15T18:10:00.000Z"
+  },
+  {
+    "id": "m70pfictu",
+    "title": "Turf",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "h6opa40fnc",
+      "name": "Boomerang"
+    },
+    "artists": [
+      {
+        "id": "pvvryzeqv",
+        "name": "Turf",
+        "image": "pvvryzeqv.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1",
+          "instagram": "https://www.instagram.com/turfoficial/",
+          "youtube": "https://www.youtube.com/@turfoficial"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T01:50:00.000Z",
+    "endsAt": "2025-02-16T02:50:00.000Z"
+  },
+  {
+    "id": "mqe1r5cwb",
+    "title": "El Mató a un Policía Motorizado",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "plzp7h020v",
+      "name": "Norte"
+    },
+    "artists": [
+      {
+        "id": "7xrtz7xy8",
+        "name": "El Mató a un Policía Motorizado",
+        "image": "7xrtz7xy8.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB",
+          "instagram": "https://www.instagram.com/elmatoaunpoliciamotorizado/",
+          "youtube": "https://www.youtube.com/@elmatoaunpoliciamotorizado"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T20:50:00.000Z",
+    "endsAt": "2025-02-15T22:25:00.000Z"
+  },
+  {
+    "id": "mqggbcisr",
+    "title": "Lara 91k",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "5dsdf3f1pt",
+      "name": "Paraguay"
+    },
+    "artists": [
+      {
+        "id": "jyjgoaj0k",
+        "name": "Lara 91k",
+        "image": "jyjgoaj0k.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/2zPvDg6LI6NHPQVQIESjfW",
+          "instagram": "https://www.instagram.com/lara91k",
+          "youtube": "https://www.youtube.com/@LARA91K"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T18:10:00.000Z",
+    "endsAt": "2025-02-16T18:50:00.000Z"
+  },
+  {
+    "id": "mwxzwir3i",
+    "title": "Papi Chimi Romero + Brossoul",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "podwz2qu0n",
+      "name": "La Casita del Blues"
+    },
+    "artists": [
+      {
+        "id": "85oz1ewga",
+        "name": "Papi Chimi Romero",
+        "image": null,
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/0jltIDNunJHaWXypts65mQ",
+          "instagram": null,
+          "youtube": "https://www.youtube.com/channel/UCK7N9J3vlMslDkTcmsfYg6Q"
+        }
+      },
+      {
+        "id": "u5m75bm2t",
+        "name": "Brossoul",
+        "image": null,
+        "links": {
+          "spotify": null,
+          "instagram": "https://www.instagram.com/brossoul/",
+          "youtube": null
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T17:30:00.000Z",
+    "endsAt": "2025-02-16T18:15:00.000Z"
+  },
+  {
+    "id": "n4tdy38fi",
+    "title": "CA7RIEL & Paco Amoroso",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "plzp7h020v",
+      "name": "Norte"
+    },
+    "artists": [
+      {
+        "id": "rf0aertj2",
+        "name": "CA7RIEL & Paco Amoroso",
+        "image": "rf0aertj2.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/6I8TDGeUmmLom8auKPzMdX",
+          "instagram": "https://www.instagram.com/ca7rielypacoamoroso/",
+          "youtube": "https://www.youtube.com/@CA7RIELyPacoAmoroso"
+        }
+      },
+      {
+        "id": "agzzkxkqp",
+        "name": "CA7RIEL",
+        "image": "agzzkxkqp.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/348pk4o3EhKmsSahzuClSf",
+          "instagram": "https://www.instagram.com/ca7riel/",
+          "youtube": "https://www.youtube.com/channel/UCHIfHsrbJ77FaQWx-oLAI1Q"
+        }
+      },
+      {
+        "id": "5971qs69e",
+        "name": "Paco Amoroso",
+        "image": "5971qs69e.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/3E7NGbzUGlOjgYY8nvtijR",
+          "instagram": "https://www.instagram.com/pacoamoroso/",
+          "youtube": "https://www.youtube.com/channel/UCxuCGHaBDACUmz9Yq0sv2Nw"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T20:50:00.000Z",
+    "endsAt": "2025-02-16T22:30:00.000Z"
+  },
+  {
+    "id": "n89nwxj8b",
+    "title": "Piti Fernández",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "podwz2qu0n",
+      "name": "La Casita del Blues"
+    },
+    "artists": [
+      {
+        "id": "ygzv5u780",
+        "name": "Piti Fernández",
+        "image": "ygzv5u780.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/4PJtMqmJX54aKaztYQfFYb",
+          "instagram": "https://www.instagram.com/pitifernandez20",
+          "youtube": "https://www.youtube.com/@PitiFernandez20"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T23:30:00.000Z",
+    "endsAt": "2025-02-17T00:35:00.000Z"
+  },
+  {
+    "id": "nj231bsib",
+    "title": "Ale Kurz",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "2oc4f11x56",
+      "name": "Sur"
+    },
+    "artists": [
+      {
+        "id": "o2z1m34er",
+        "name": "Ale Kurz",
+        "image": "o2z1m34er.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/6702vlPBoiA7zeDvv6wPkW",
+          "instagram": "https://www.instagram.com/kurzale/",
+          "youtube": "https://www.youtube.com/@AleKurz"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T20:50:00.000Z",
+    "endsAt": "2025-02-16T22:00:00.000Z"
+  },
+  {
+    "id": "njc99a0mw",
+    "title": "Mabel",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "axlvnbb39",
+      "name": "Hangar Club"
+    },
+    "artists": [
+      {
+        "id": "3weforhvo",
+        "name": "Mabel",
+        "image": "3weforhvo.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/2JtZpdVRngBXxJ2yZsGLQA",
+          "instagram": null,
+          "youtube": "https://www.youtube.com/channel/UCElLWEdB6u4c0YFRhUM5jgw"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T23:00:00.000Z",
+    "endsAt": "2025-02-15T23:50:00.000Z"
+  },
+  {
+    "id": "njyfd8r9f",
+    "title": "Koino Yokan",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "plzp7h020v",
+      "name": "Norte"
+    },
+    "artists": [
+      {
+        "id": "zverx5hn6",
+        "name": "Koino Yokan",
+        "image": "zverx5hn6.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J",
+          "instagram": "https://www.instagram.com/koinoyokanmusica/",
+          "youtube": "https://www.youtube.com/channel/UCk_FkSVnFOhHIn6ejDtcDBw"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T18:20:00.000Z",
+    "endsAt": "2025-02-15T19:20:00.000Z"
+  },
+  {
+    "id": "nk1a7lpej",
+    "title": "Skay y los Fakires",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "2oc4f11x56",
+      "name": "Sur"
+    },
+    "artists": [
+      {
+        "id": "dm6imemqu",
+        "name": "Skay y los Fakires",
+        "image": "dm6imemqu.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/4K8Mrjr9IvA8QU0Vjj4BED",
+          "instagram": "https://www.instagram.com/skaybeilinsonoficial/",
+          "youtube": "https://www.youtube.com/@skaybeilinsonoficial"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T23:30:00.000Z",
+    "endsAt": "2025-02-17T00:50:00.000Z"
+  },
+  {
+    "id": "nr3ncpkns",
+    "title": "Los Mentidores",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "podwz2qu0n",
+      "name": "La Casita del Blues"
+    },
+    "artists": [
+      {
+        "id": "qzx5we3td",
+        "name": "Los Mentidores",
+        "image": "qzx5we3td.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/1o17CAvZHduKv8DzVs1UXT",
+          "instagram": "https://www.instagram.com/losmentidores",
+          "youtube": "https://www.youtube.com/@losmentidores7177"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T18:00:00.000Z",
+    "endsAt": "2025-02-15T18:50:00.000Z"
+  },
+  {
+    "id": "osawpf0re",
+    "title": "Ivan Singh y Sheryl Youngblood",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "podwz2qu0n",
+      "name": "La Casita del Blues"
+    },
+    "artists": [
+      {
+        "id": "e4nel73af",
+        "name": "Ivan Singh",
+        "image": "e4nel73af.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/1Maz36c3iSHxsFzIhaYOUv",
+          "instagram": "https://www.instagram.com/ivansingh_ok/",
+          "youtube": "https://www.youtube.com/channel/UCnMwettA5YS8PT9R6Gpu4Vg"
+        }
+      },
+      {
+        "id": "kk0pgtfir",
+        "name": "Sheryl Youngblood",
+        "image": null,
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/58ON0UxibkcffiFCjbbq1d",
+          "instagram": "https://www.instagram.com/sherylyoungbloodofficial/",
+          "youtube": "https://www.youtube.com/channel/UCv47OWfEzJdZeBqCLOEWaWQ"
+        }
+      }
+    ],
+    "startsAt": "2025-02-17T00:45:00.000Z",
+    "endsAt": "2025-02-17T01:35:00.000Z"
+  },
+  {
+    "id": "pepuu0jxb",
+    "title": "Memphis la Blusera",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "podwz2qu0n",
+      "name": "La Casita del Blues"
+    },
+    "artists": [
+      {
+        "id": "jwntr3mov",
+        "name": "Memphis la Blusera",
+        "image": "jwntr3mov.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/55j4xUfI5AATqETp8AnrRp",
+          "instagram": "https://www.instagram.com/memphislablusera/",
+          "youtube": "https://www.youtube.com/channel/UCIjFCDIhZHGxMZOjvhh45-A"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T00:15:00.000Z",
+    "endsAt": "2025-02-16T01:30:00.000Z"
+  },
+  {
+    "id": "qcnqk7lbv",
+    "title": "UMA",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "h6opa40fnc",
+      "name": "Boomerang"
+    },
+    "artists": [
+      {
+        "id": "wngey5oj2",
+        "name": "UMA",
+        "image": "wngey5oj2.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP",
+          "instagram": "https://www.instagram.com/uma.costa/",
+          "youtube": "https://www.youtube.com/@UMAmiau"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T17:50:00.000Z",
+    "endsAt": "2025-02-15T18:30:00.000Z"
+  },
+  {
+    "id": "qoy7dwhm8",
+    "title": "Bandalos Chinos",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "14tfu8rogm",
+      "name": "Montaña"
+    },
+    "artists": [
+      {
+        "id": "oa5e42tuk",
+        "name": "Bandalos Chinos",
+        "image": "oa5e42tuk.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/0wn2qDKzeFlhjRUtJAwJjp",
+          "instagram": "https://www.instagram.com/bandaloschinos/",
+          "youtube": "https://www.youtube.com/@BANDALOSCHINOS"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T21:40:00.000Z",
+    "endsAt": "2025-02-16T23:30:00.000Z"
+  },
+  {
+    "id": "qupak3tkb",
+    "title": "Siddhartha",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "h6opa40fnc",
+      "name": "Boomerang"
+    },
+    "artists": [
+      {
+        "id": "393v5zjvx",
+        "name": "Siddhartha",
+        "image": "393v5zjvx.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x",
+          "instagram": "https://www.instagram.com/iamsiddhartha/",
+          "youtube": "https://www.youtube.com/@YosoySiddhartha"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T20:20:00.000Z",
+    "endsAt": "2025-02-15T21:10:00.000Z"
+  },
+  {
+    "id": "r131vsq0j",
+    "title": "Winona Riders",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "5dsdf3f1pt",
+      "name": "Paraguay"
+    },
+    "artists": [
+      {
+        "id": "6d39xtur4",
+        "name": "Winona Riders",
+        "image": "6d39xtur4.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/6ipac2Z0d0L6LWS7tTudcp",
+          "instagram": "https://www.instagram.com/winona.riders/",
+          "youtube": "https://www.youtube.com/channel/UCdZbckjCp1FLLZWjoTn0-iw"
+        }
+      }
+    ],
+    "startsAt": "2025-02-17T00:30:00.000Z",
+    "endsAt": "2025-02-17T01:20:00.000Z"
+  },
+  {
+    "id": "r3oh4nijm",
+    "title": "Marti Death",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "axlvnbb39",
+      "name": "Hangar Club"
+    },
+    "artists": [
+      {
+        "id": "1yg160e38",
+        "name": "Marti Death",
+        "image": null,
+        "links": {
+          "spotify": null,
+          "instagram": "https://www.instagram.com/themartinadeath/",
+          "youtube": null
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T20:00:00.000Z",
+    "endsAt": "2025-02-15T20:50:00.000Z"
+  },
+  {
+    "id": "r8qxcer2q",
+    "title": "Nicki Nicole",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "plzp7h020v",
+      "name": "Norte"
+    },
+    "artists": [
+      {
+        "id": "75o0lndnk",
+        "name": "Nicki Nicole",
+        "image": "75o0lndnk.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/2UZIAOlrnyZmyzt1nuXr9y",
+          "instagram": "https://www.instagram.com/nicki.nicole/",
+          "youtube": "https://www.youtube.com/@NickiNicoleOk"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T22:40:00.000Z",
+    "endsAt": "2025-02-16T23:50:00.000Z"
+  },
+  {
+    "id": "rulni8zev",
+    "title": "Genitallica",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "14tfu8rogm",
+      "name": "Montaña"
+    },
+    "artists": [
+      {
+        "id": "rtffeda4w",
+        "name": "Genitallica",
+        "image": "rtffeda4w.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/5Bk3LL5WujH6UG9iqpDaxA",
+          "instagram": "https://www.instagram.com/genitallicamx",
+          "youtube": "https://www.youtube.com/@genitallicamx"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T17:30:00.000Z",
+    "endsAt": "2025-02-16T18:40:00.000Z"
+  },
+  {
+    "id": "si5dvvoa5",
+    "title": "Luck Ra",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "plzp7h020v",
+      "name": "Norte"
+    },
+    "artists": [
+      {
+        "id": "zsxsz4ho6",
+        "name": "Luck Ra",
+        "image": "zsxsz4ho6.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/4kcQWQDK0u9AftVSpdrAgk",
+          "instagram": "https://www.instagram.com/luckra/",
+          "youtube": "https://www.youtube.com/@LuckRa"
+        }
+      }
+    ],
+    "startsAt": "2025-02-17T03:00:00.000Z",
+    "endsAt": "2025-02-17T04:00:00.000Z"
+  },
+  {
+    "id": "sye4b5mg9",
+    "title": "Ryan",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "2oc4f11x56",
+      "name": "Sur"
+    },
+    "artists": [
+      {
+        "id": "uhnwnruq7",
+        "name": "Ryan",
+        "image": "uhnwnruq7.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E",
+          "instagram": "https://www.instagram.com/ryanbanda_/",
+          "youtube": "https://www.youtube.com/@ryanbanda_"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T17:30:00.000Z",
+    "endsAt": "2025-02-15T18:10:00.000Z"
+  },
+  {
+    "id": "t3wvusfib",
+    "title": "Claudette King",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "podwz2qu0n",
+      "name": "La Casita del Blues"
+    },
+    "artists": [
+      {
+        "id": "2jack646g",
+        "name": "Claudette King",
+        "image": "2jack646g.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/12UNvUazuntLs3VvwVQ8gM",
+          "instagram": "https://www.instagram.com/claudetterobinsonking/",
+          "youtube": "https://www.youtube.com/@claudetteking6544"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T20:50:00.000Z",
+    "endsAt": "2025-02-15T21:45:00.000Z"
+  },
+  {
+    "id": "t7lujye6i",
+    "title": "Indios",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "h6opa40fnc",
+      "name": "Boomerang"
+    },
+    "artists": [
+      {
+        "id": "6ti60kae9",
+        "name": "Indios",
+        "image": "6ti60kae9.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp",
+          "instagram": "https://www.instagram.com/indiosoficial",
+          "youtube": "https://www.youtube.com/@indiosoficialindios"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T22:20:00.000Z",
+    "endsAt": "2025-02-15T23:20:00.000Z"
+  },
+  {
+    "id": "tfobu074q",
+    "title": "Fonso y Las Paritarias",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "5dsdf3f1pt",
+      "name": "Paraguay"
+    },
+    "artists": [
+      {
+        "id": "olb5c6dfy",
+        "name": "Fonso y Las Paritarias",
+        "image": null,
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/7F0EJprm2nfF3OmKCa4Ox4",
+          "instagram": "https://www.instagram.com/fonsofonsi/?hl=es-la",
+          "youtube": "https://www.youtube.com/@fonsofonsi"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T17:20:00.000Z",
+    "endsAt": "2025-02-16T18:00:00.000Z"
+  },
+  {
+    "id": "ttqmrf165",
+    "title": "Polenta",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "h6opa40fnc",
+      "name": "Boomerang"
+    },
+    "artists": [
+      {
+        "id": "3vws8793h",
+        "name": "Polenta",
+        "image": null,
+        "links": {
+          "spotify": "https://open.spotify.com/user/31feh6byuhxyjkfpe26lwc3lwpt4",
+          "instagram": "https://www.instagram.com/polenta.polenta/",
+          "youtube": "https://www.youtube.com/@polenta.polenta"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T03:00:00.000Z",
+    "endsAt": "2025-02-16T04:00:00.000Z"
+  },
+  {
+    "id": "ummwoqo3n",
+    "title": "Las Pastillas del Abuelo",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "2oc4f11x56",
+      "name": "Sur"
+    },
+    "artists": [
+      {
+        "id": "36lvqrys3",
+        "name": "Las Pastillas del Abuelo",
+        "image": "36lvqrys3.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca",
+          "instagram": "https://www.instagram.com/laspastillasdelabuelo",
+          "youtube": "https://www.youtube.com/@laspastillasdelabuelo"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T02:10:00.000Z",
+    "endsAt": "2025-02-16T03:20:00.000Z"
+  },
+  {
+    "id": "v3mnzq5os",
+    "title": "Sivinski",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "axlvnbb39",
+      "name": "Hangar Club"
+    },
+    "artists": [
+      {
+        "id": "a175tb393",
+        "name": "Sivinski",
+        "image": null,
+        "links": {
+          "spotify": null,
+          "instagram": "https://www.instagram.com/vi.porcelain/",
+          "youtube": "https://www.youtube.com/@victoriasivinski"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T20:00:00.000Z",
+    "endsAt": "2025-02-16T20:50:00.000Z"
+  },
+  {
+    "id": "v9bbf3qq5",
+    "title": "The Ginger Hearts",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "podwz2qu0n",
+      "name": "La Casita del Blues"
+    },
+    "artists": [
+      {
+        "id": "ulyzy4w3c",
+        "name": "The Ginger Hearts",
+        "image": "ulyzy4w3c.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/4QTNY2uPaKPbunEd5xHyec",
+          "instagram": "https://www.instagram.com/thegingerhearts/",
+          "youtube": "https://www.youtube.com/@thegingerhearts4924"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T19:00:00.000Z",
+    "endsAt": "2025-02-15T19:45:00.000Z"
+  },
+  {
+    "id": "vfj03r7z4",
+    "title": "Divididos",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "plzp7h020v",
+      "name": "Norte"
+    },
+    "artists": [
+      {
+        "id": "zvpd1rz95",
+        "name": "Divididos",
+        "image": "zvpd1rz95.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx",
+          "instagram": "https://www.instagram.com/divididosoficial/",
+          "youtube": "https://www.youtube.com/@divididosoficial"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T22:35:00.000Z",
+    "endsAt": "2025-02-16T00:30:00.000Z"
+  },
+  {
+    "id": "wb68zwx04",
+    "title": "Juan Hansen Live",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "14tfu8rogm",
+      "name": "Montaña"
+    },
+    "artists": [
+      {
+        "id": "xekganvvu",
+        "name": "Juan Hansen Live",
+        "image": "xekganvvu.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/1ZFLYus27fzqEV3d6RBrxo",
+          "instagram": "https://www.instagram.com/juan_hansen/",
+          "youtube": "https://www.youtube.com/@juan_hansen"
+        }
+      }
+    ],
+    "startsAt": "2025-02-17T02:10:00.000Z",
+    "endsAt": "2025-02-17T03:10:00.000Z"
+  },
+  {
+    "id": "wciobepw4",
+    "title": "La Delio Valdez",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "plzp7h020v",
+      "name": "Norte"
+    },
+    "artists": [
+      {
+        "id": "rfwzhn1w1",
+        "name": "La Delio Valdez",
+        "image": "rfwzhn1w1.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/3tzacGOmngxUV8W8lU9h3Q",
+          "instagram": "https://www.instagram.com/orquestadeliovaldez",
+          "youtube": "https://www.youtube.com/@LaDelioValdez"
+        }
+      }
+    ],
+    "startsAt": "2025-02-17T00:00:00.000Z",
+    "endsAt": "2025-02-17T01:50:00.000Z"
+  },
+  {
+    "id": "wfvu16vci",
+    "title": "Inazulina",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "14tfu8rogm",
+      "name": "Montaña"
+    },
+    "artists": [
+      {
+        "id": "mly1o2a3p",
+        "name": "Inazulina",
+        "image": "mly1o2a3p.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/1satf8TdRsle6wpXpcGsgu",
+          "instagram": "https://www.instagram.com/inazulina_oficial",
+          "youtube": "https://www.youtube.com/@INAZULINA"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T18:00:00.000Z",
+    "endsAt": "2025-02-15T18:40:00.000Z"
+  },
+  {
+    "id": "x2d9abz00",
+    "title": "Florian",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "h6opa40fnc",
+      "name": "Boomerang"
+    },
+    "artists": [
+      {
+        "id": "udnmqtlzt",
+        "name": "Florian",
+        "image": "udnmqtlzt.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2",
+          "instagram": "https://www.instagram.com/florianofc",
+          "youtube": "https://www.youtube.com/@FlorianOk"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T18:40:00.000Z",
+    "endsAt": "2025-02-15T19:20:00.000Z"
+  },
+  {
+    "id": "xjt21wmie",
+    "title": "PAMPA",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "axlvnbb39",
+      "name": "Hangar Club"
+    },
+    "artists": [
+      {
+        "id": "6h2atw9ki",
+        "name": "PAMPA",
+        "image": null,
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/5tWAMlHCmAZl5gJQJjFwmS",
+          "instagram": "https://www.instagram.com/pampadj/",
+          "youtube": "https://www.youtube.com/@pampa909"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T23:00:00.000Z",
+    "endsAt": "2025-02-16T23:50:00.000Z"
+  },
+  {
+    "id": "yegcma51m",
+    "title": "Silvestre y la Naranja",
+    "day": {
+      "id": "vfsvlalt5",
+      "name": "Día 2",
+      "startsAt": "2025-02-16T17:30:00.000Z",
+      "endsAt": "2025-02-17T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "14tfu8rogm",
+      "name": "Montaña"
+    },
+    "artists": [
+      {
+        "id": "uunms3awr",
+        "name": "Silvestre y la Naranja",
+        "image": "uunms3awr.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/intl-es/artist/1hE5imhaIrCEKoHLHW9aCO",
+          "instagram": "https://www.instagram.com/silvestreylanaranja",
+          "youtube": "https://www.youtube.com/@silvestreylanaranja"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T20:20:00.000Z",
+    "endsAt": "2025-02-16T21:30:00.000Z"
+  },
+  {
+    "id": "zkgymnvu6",
+    "title": "Babasónicos",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "2oc4f11x56",
+      "name": "Sur"
+    },
+    "artists": [
+      {
+        "id": "ny905t6bu",
+        "name": "Babasónicos",
+        "image": "ny905t6bu.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2",
+          "instagram": "https://www.instagram.com/Babasonicos",
+          "youtube": "https://www.youtube.com/@babasonicos"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T00:40:00.000Z",
+    "endsAt": "2025-02-16T02:00:00.000Z"
+  },
+  {
+    "id": "zlogeqieg",
+    "title": "Leo Rizzi",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "h6opa40fnc",
+      "name": "Boomerang"
+    },
+    "artists": [
+      {
+        "id": "r53dqw6jf",
+        "name": "Leo Rizzi",
+        "image": "r53dqw6jf.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2",
+          "instagram": "https://www.instagram.com/leorizzi/",
+          "youtube": "https://www.youtube.com/@LeoRizzi"
+        }
+      }
+    ],
+    "startsAt": "2025-02-15T21:20:00.000Z",
+    "endsAt": "2025-02-15T22:10:00.000Z"
+  },
+  {
+    "id": "zru40t06o",
+    "title": "Mariano Mellino",
+    "day": {
+      "id": "2gyu81pm7",
+      "name": "Día 1",
+      "startsAt": "2025-02-15T17:30:00.000Z",
+      "endsAt": "2025-02-16T06:30:00.000Z"
+    },
+    "stage": {
+      "id": "14tfu8rogm",
+      "name": "Montaña"
+    },
+    "artists": [
+      {
+        "id": "v9wotd763",
+        "name": "Mariano Mellino",
+        "image": "v9wotd763.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE",
+          "instagram": "https://www.instagram.com/marianomellino",
+          "youtube": "https://www.youtube.com/@MellinoMariano"
+        }
+      }
+    ],
+    "startsAt": "2025-02-16T03:00:00.000Z",
+    "endsAt": "2025-02-16T03:50:00.000Z"
+  }
+]

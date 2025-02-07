@@ -9,7 +9,6 @@ import {
   DrawerHeader,
   DrawerTitle,
 } from '~/components/ui/drawer'
-import type { Show } from '~/lib/database/schema'
 import { getColorFromString, getSignificantCharacters } from '~/utils'
 import { Avatar, AvatarFallback, AvatarImage } from '../ui/avatar'
 import { Button } from '../ui/button'
@@ -42,7 +41,7 @@ export function ShowDrawer({ show }: { show: Show }) {
                 }
               >
                 <AvatarImage
-                  src={`data:image/jpeg;base64, ${artist.image}`}
+                  src={artist.image ? `/images/${artist.image}` : undefined}
                   alt={artist.name}
                   className="object-cover"
                 />
@@ -91,7 +90,7 @@ export function ShowDrawer({ show }: { show: Show }) {
                 }
               >
                 <AvatarImage
-                  src={`data:image/jpeg;base64, ${artist.image}`}
+                  src={artist.image ? `/images/${artist.image}` : undefined}
                   alt={artist.name}
                   className="object-cover"
                 />
@@ -104,9 +103,9 @@ export function ShowDrawer({ show }: { show: Show }) {
                   {artist.name}
                 </span>
                 <div className="flex gap-1">
-                  {artist.spotify && (
+                  {artist.links.spotify && (
                     <a
-                      href={artist.spotify}
+                      href={artist.links.spotify}
                       target="_blank"
                       rel="noreferrer noopener"
                       className="size-8 flex items-center justify-center bg-slate-100 rounded-full [&>svg]:size-4 [&>svg]:text-[#1ed760]"
@@ -122,9 +121,9 @@ export function ShowDrawer({ show }: { show: Show }) {
                       </svg>
                     </a>
                   )}
-                  {artist.youtube && (
+                  {artist.links.youtube && (
                     <a
-                      href={artist.youtube}
+                      href={artist.links.youtube}
                       target="_blank"
                       rel="noreferrer noopener"
                       className="size-8 flex items-center justify-center bg-slate-100 rounded-full [&>svg]:size-4 [&>svg]:text-[#ff0000]"
@@ -140,9 +139,9 @@ export function ShowDrawer({ show }: { show: Show }) {
                       </svg>
                     </a>
                   )}
-                  {artist.instagram && (
+                  {artist.links.instagram && (
                     <a
-                      href={artist.instagram}
+                      href={artist.links.instagram}
                       target="_blank"
                       rel="noreferrer noopener"
                       className="size-8 flex items-center justify-center bg-slate-100 rounded-full [&>svg]:size-4 [&>svg]:text-[#ff0069]"

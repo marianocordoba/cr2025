@@ -1,4 +1,4 @@
-import { getShow, getShows } from '~/actions/shows'
+import shows from '~/assets/data/shows.json'
 import { ShowDrawer } from '~/components/show-drawer/show-drawer'
 
 export default async function ShowDetailsPage({
@@ -7,12 +7,15 @@ export default async function ShowDetailsPage({
   params: Promise<{ id: string }>
 }) {
   const { id } = await params
-  const show = await getShow(id)
+  const show = shows.find((show) => show.id === id)
+
+  if (!show) {
+    return null
+  }
 
   return <ShowDrawer show={show} />
 }
 
 export async function generateStaticParams() {
-  const shows = await getShows()
   return shows.map((show) => ({ id: show.id }))
 }

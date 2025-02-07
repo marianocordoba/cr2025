@@ -7,16 +7,14 @@ import {
 } from 'date-fns'
 import { es } from 'date-fns/locale'
 import Link from 'next/link'
-import { getDays } from '~/actions/days'
-import { getShowsByDay } from '~/actions/shows'
-import { getStages } from '~/actions/stages'
-import type { Show } from '~/lib/database/schema'
+
+import days from '~/assets/data/days.json'
+import showsByDay from '~/assets/data/shows-by-day.json'
+import stages from '~/assets/data/stages.json'
 
 export default async function SchedulePage() {
-  const days = await getDays()
   const currentDay = days[1]
-  const stages = await getStages()
-  const shows = await getShowsByDay(currentDay.id)
+  const shows = showsByDay[1].shows
   const startsAt = currentDay.startsAt
   const endsAt = currentDay.endsAt
   const minutes = differenceInMinutes(endsAt, startsAt)
@@ -31,7 +29,7 @@ export default async function SchedulePage() {
       acc[stage].push(show)
       return acc
     },
-    {} as Record<string, Show[]>,
+    {} as Record<string, (typeof shows)[number][]>,
   )
 
   const slots = new Array(Math.ceil(minutes / 30) + 1)
