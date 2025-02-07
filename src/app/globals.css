@@ -1,0 +1,48 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-accent: var(--accent);
+  --font-title: var(--font-title);
+}
+
+/*
+  The default border color has changed to `currentColor` in Tailwind CSS v4,
+  so we've added these compatibility styles to make sure everything still
+  looks the same as it did with Tailwind CSS v3.
+
+  If we ever want to remove these styles, we need to add an explicit border
+  color utility to any element that depends on these defaults.
+*/
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentColor);
+  }
+}
+
+:root {
+  --background: #f8fafc;
+  --foreground: #020617;
+  --primary: #006d43;
+  --accent: #e8362c;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #f8fafc;
+    --foreground: #020617;
+  }
+}
+
+@layer base {
+  body {
+    @apply text-foreground bg-background font-sans antialiased;
+  }
+}
+
