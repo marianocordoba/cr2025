@@ -11,6 +11,10 @@ function suscribe(callback: () => void) {
 }
 
 export function useIsMobile() {
-  const isMobile = useSyncExternalStore(suscribe, () => matchMedia?.matches)
+  const isMobile = useSyncExternalStore(
+    suscribe,
+    () => matchMedia?.matches,
+    () => true,
+  )
   return isMobile
 }
