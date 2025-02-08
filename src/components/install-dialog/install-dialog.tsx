@@ -1,11 +1,8 @@
 'use client'
 
-import { DownloadIcon, HelpCircleIcon } from 'lucide-react'
-import Link from 'next/link'
-import { usePathname } from 'next/navigation'
+import { DownloadIcon } from 'lucide-react'
 import { useEffect, useState } from 'react'
 import { useIsMobile } from '~/hooks/use-mobile'
-import { Button } from '../ui/button'
 import {
   Dialog,
   DialogClose,
