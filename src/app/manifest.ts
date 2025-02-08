@@ -14,19 +14,19 @@ export default function manifest(): MetadataRoute.Manifest {
     theme_color: '#006d43',
     icons: [
       {
-        src: 'ios/180.png',
+        src: '180.png',
         sizes: '180x180',
       },
       {
-        src: 'ios/256.png',
+        src: '256.png',
         sizes: '256x256',
       },
       {
-        src: 'ios/512.png',
+        src: '512.png',
         sizes: '512x512',
       },
       {
-        src: 'ios/1024.png',
+        src: '1024.png',
         sizes: '1024x1024',
       },
     ],

@@ -4,6 +4,7 @@ import { env } from '~/env'
 import { cn } from '~/utils'
 import '~/app/globals.css'
 import { AppHeader } from '~/components/app-header/app-header'
+import { Disclaimer } from '~/components/disclaimer/disclaimer'
 import { Toaster } from '~/components/ui/sonner'
 
 const fontSans = Geist({
@@ -52,6 +53,7 @@ export default function RootLayout({
       <body className={cn(fontSans.variable, fontTitle.variable)}>
         <AppHeader />
         {children}
+        <Disclaimer />
         <Toaster position="bottom-right" />
       </body>
     </html>

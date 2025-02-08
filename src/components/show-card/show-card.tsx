@@ -14,7 +14,13 @@ import { useIsMobile } from '~/hooks/use-mobile'
 import { db } from '~/lib/db'
 import { capitalize } from '~/utils'
 import { ShowDetails } from '../show-details/show-details'
-import { Dialog, DialogContent, DialogTitle, DialogTrigger } from '../ui/dialog'
+import {
+  Dialog,
+  DialogClose,
+  DialogContent,
+  DialogTitle,
+  DialogTrigger,
+} from '../ui/dialog'
 import { Drawer, DrawerContent, DrawerTitle, DrawerTrigger } from '../ui/drawer'
 
 export function ShowCard({ show }: { show: Show }) {
@@ -98,6 +104,7 @@ export function ShowCard({ show }: { show: Show }) {
       <DialogContent className="p-0 bg-white">
         <DialogTitle className="hidden">{show.title}</DialogTitle>
         <ShowDetails show={show} />
+        <DialogClose />
       </DialogContent>
     </Dialog>
   )
