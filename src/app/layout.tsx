@@ -3,6 +3,7 @@ import { Barlow_Semi_Condensed, Geist } from 'next/font/google'
 import { env } from '~/env'
 import { cn } from '~/utils'
 import '~/app/globals.css'
+import { AppHeader } from '~/components/app-header/app-header'
 import { Toaster } from '~/components/ui/sonner'
 
 const fontSans = Geist({
@@ -49,6 +50,7 @@ export default function RootLayout({
   return (
     <html lang="es">
       <body className={cn(fontSans.variable, fontTitle.variable)}>
+        <AppHeader />
         {children}
         <Toaster position="bottom-right" />
       </body>

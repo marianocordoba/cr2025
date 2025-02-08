@@ -68,16 +68,8 @@ async function run() {
   })
 
   const allDays = db.prepare('SELECT * FROM days').all() as Day[]
-  fs.writeFileSync(
-    path.resolve(__dirname, '..', 'output', 'days.json'),
-    JSON.stringify(allDays, null, 2),
-  )
 
   const allStages = db.prepare('SELECT * FROM stages').all() as Stage[]
-  fs.writeFileSync(
-    path.resolve(__dirname, '..', 'output', 'stages.json'),
-    JSON.stringify(allStages, null, 2),
-  )
 
   const allArtistResults = db.prepare('SELECT * FROM artists').all() as {
     id: string
@@ -88,30 +80,27 @@ async function run() {
     youtube?: string
   }[]
 
-  const allArtists = allArtistResults.map((artist) => {
-    const image = artist.image ? `${artist.id}.jpg` : null
+  let allArtists = allArtistResults
+    .map((artist) => {
+      const image = artist.image ? `${artist.id}.jpg` : null
 
-    if (image) {
-      const imagePath = path.resolve(__dirname, '..', 'output/images', image)
-      fs.writeFileSync(imagePath, Buffer.from(artist.image, 'base64'))
-    }
+      if (image) {
+        const imagePath = path.resolve(__dirname, '..', 'output/images', image)
+        fs.writeFileSync(imagePath, Buffer.from(artist.image, 'base64'))
+      }
 
-    return {
-      id: artist.id,
-      name: artist.name,
-      image,
-      links: {
-        spotify: artist.spotify,
-        instagram: artist.instagram,
-        youtube: artist.youtube,
-      },
-    }
-  })
-
-  fs.writeFileSync(
-    path.resolve(__dirname, '..', 'output', 'artists.json'),
-    JSON.stringify(allArtists, null, 2),
-  )
+      return {
+        id: artist.id,
+        name: artist.name,
+        image,
+        links: {
+          spotify: artist.spotify,
+          instagram: artist.instagram,
+          youtube: artist.youtube,
+        },
+      }
+    })
+    .sort((a, b) => a.name.localeCompare(b.name))
 
   const showsSelect = `
     select 
@@ -156,10 +145,16 @@ async function run() {
 
   const allShows = allShowResults.map(mapShow)
 
-  fs.writeFileSync(
-    path.resolve(__dirname, '..', 'output', 'shows.json'),
-    JSON.stringify(allShows, null, 2),
-  )
+  allArtists = allArtists.map((artist) => {
+    const [showId] = allShowResults
+      .filter((show) => show.artistIds.includes(artist.id))
+      .map((show) => show.id)
+
+    return {
+      ...artist,
+      showId,
+    }
+  })
 
   const allShowsByDay = allDays.map((day) => {
     const shows = allShowResults
@@ -172,6 +167,26 @@ async function run() {
       shows,
     }
   })
+
+  fs.writeFileSync(
+    path.resolve(__dirname, '..', 'output', 'days.json'),
+    JSON.stringify(allDays, null, 2),
+  )
+
+  fs.writeFileSync(
+    path.resolve(__dirname, '..', 'output', 'stages.json'),
+    JSON.stringify(allStages, null, 2),
+  )
+
+  fs.writeFileSync(
+    path.resolve(__dirname, '..', 'output', 'artists.json'),
+    JSON.stringify(allArtists, null, 2),
+  )
+
+  fs.writeFileSync(
+    path.resolve(__dirname, '..', 'output', 'shows.json'),
+    JSON.stringify(allShows, null, 2),
+  )
 
   fs.writeFileSync(
     path.resolve(__dirname, '..', 'output', 'shows-by-day.json'),

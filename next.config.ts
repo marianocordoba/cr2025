@@ -18,6 +18,7 @@ export default async function config() {
           url: `/images/${artist.image}`,
           revision,
         })),
+      { url: '/artists', revision },
       { url: '/~offline', revision },
     ],
   })

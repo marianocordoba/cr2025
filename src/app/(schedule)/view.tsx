@@ -1,7 +1,7 @@
 'use client'
 
 import { addMinutes, compareAsc, differenceInMinutes, format } from 'date-fns'
-import { useEffect, useRef, useState } from 'react'
+import { useRef, useState } from 'react'
 
 import days from '~/assets/data/days.json'
 import showsByDay from '~/assets/data/shows-by-day.json'

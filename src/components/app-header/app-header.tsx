@@ -11,7 +11,10 @@ export function AppHeader() {
             </Link>
           </li>
           <li>
-            <Link href="/about" className="font-title font-bold italic text-lg">
+            <Link
+              href="/artists"
+              className="font-title font-bold italic text-lg"
+            >
               Artistas
             </Link>
           </li>
