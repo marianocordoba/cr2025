@@ -3,19 +3,15 @@ import type { NextConfig } from 'next'
 import { $ } from 'zx'
 
 import artists from './src/assets/data/artists.json'
-import shows from './src/assets/data/shows.json'
 
 export default async function config() {
   const revision = await (await $`git rev-parse HEAD`.text()).trim()
 
   const withSerwist = withSerwistInit({
+    cacheOnNavigation: true,
     swSrc: 'src/app/sw.ts',
     swDest: 'public/sw.js',
     additionalPrecacheEntries: [
-      ...shows.map((show) => ({
-        url: `/shows/${show.id}`,
-        revision,
-      })),
       ...artists
         .filter((artist) => artist.image)
         .map((artist) => ({

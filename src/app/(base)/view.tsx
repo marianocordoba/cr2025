@@ -1,7 +1,7 @@
 'use client'
 
 import { addMinutes, compareAsc, differenceInMinutes, format } from 'date-fns'
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 
 import days from '~/assets/data/days.json'
 import showsByDay from '~/assets/data/shows-by-day.json'
@@ -19,6 +19,7 @@ export function ScheduleView() {
   const startsAt = currentDay.startsAt
   const endsAt = currentDay.endsAt
   const minutes = differenceInMinutes(endsAt, startsAt)
+  const scrollRef = useRef<HTMLDivElement | null>(null)
 
   const slots = new Array(Math.ceil(minutes / 30) + 1)
     .fill(null)
@@ -64,6 +65,7 @@ export function ScheduleView() {
         return (
           <div
             key={day.id}
+            ref={scrollRef}
             className={cn(
               'relative flex-1 w-screen overflow-x-auto overflow-y-hidden [&::-webkit-scrollbar]:hidden',
               day.id === currentDay.id ? 'block' : 'hidden',

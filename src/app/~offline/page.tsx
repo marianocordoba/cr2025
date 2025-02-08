@@ -1,3 +1,4 @@
+import { UnplugIcon } from 'lucide-react'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
@@ -6,9 +7,10 @@ export const metadata: Metadata = {
 
 export default function Page() {
   return (
-    <>
-      <h1>This is offline fallback page</h1>
-      <h2>When offline, any page route will fallback to this page</h2>
-    </>
+    <main className="h-dvh flex flex-col items-center justify-center">
+      <UnplugIcon className="size-32 mb-8 text-slate-400" />
+      <h1 className="text-2xl font-semibold">No hay conexión a internet</h1>
+      <h2>Por favor, revisa tu conexión y vuelve a intentarlo.</h2>
+    </main>
   )
 }
