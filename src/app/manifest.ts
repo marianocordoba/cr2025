@@ -10,24 +10,24 @@ export default function manifest(): MetadataRoute.Manifest {
     description: env.NEXT_PUBLIC_APP_DESCRIPTION,
     start_url: '/',
     display: 'standalone',
-    background_color: '#f8fafc',
+    background_color: '#006d43',
     theme_color: '#006d43',
     icons: [
       {
-        src: '180.png',
-        sizes: '180x180',
+        src: 'icon.svg',
+        sizes: 'any',
+      },
+    ],
+    screenshots: [
+      {
+        src: 'screenshots/1.jpg',
+        sizes: '1080x2200',
+        type: 'image/jpeg',
       },
       {
-        src: '256.png',
-        sizes: '256x256',
-      },
-      {
-        src: '512.png',
-        sizes: '512x512',
-      },
-      {
-        src: '1024.png',
-        sizes: '1024x1024',
+        src: 'screenshots/2.jpg',
+        sizes: '1080x2200',
+        type: 'image/jpeg',
       },
     ],
   }

@@ -25,14 +25,13 @@ export function Disclaimer() {
       >
         <DialogTitle>Atención</DialogTitle>
         <p>
-          Esta aplicación es un proyecto personal y no tiene ninguna relación
-          con Cosquín Rock. Los logos y marcas utilizados en esta aplicación son
-          propiedad de sus respectivos dueños.
+          Este es un proyecto personal sin ninguna vinculación con Cosquín Rock.
+          Los logos y marcas mostrados pertenecen a sus respectivos dueños.
         </p>
         <p>
-          Los horarios mostrados en esta aplicación son tomados de la grilla
-          oficial de Cosquín Rock y pueden estar sujetos a cambios. La duración
-          de los shows es estimada y puede variar.
+          Los horarios que vas a ver acá están tomados de la grilla oficial del
+          festival y pueden cambiar. Tené en cuenta que la duración de los shows
+          es estimada y podría variar.
         </p>
         <Button onClick={handleAccept} className="mt-4">
           Entendido

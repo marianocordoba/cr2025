@@ -1,11 +1,11 @@
 import type { Metadata, Viewport } from 'next'
 import { Barlow_Semi_Condensed, Geist } from 'next/font/google'
-import { env } from '~/env'
-import { cn } from '~/utils'
 import '~/app/globals.css'
 import { AppHeader } from '~/components/app-header/app-header'
 import { Disclaimer } from '~/components/disclaimer/disclaimer'
 import { Toaster } from '~/components/ui/sonner'
+import { env } from '~/env'
+import { cn } from '~/utils'
 
 const fontSans = Geist({
   variable: '--font-sans',

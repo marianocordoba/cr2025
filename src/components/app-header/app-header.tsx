@@ -3,7 +3,7 @@
 import { HelpCircleIcon } from 'lucide-react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import { Button } from '../ui/button'
+import { InstallDialog } from '../install-dialog/install-dialog'
 import {
   Dialog,
   DialogClose,
@@ -18,11 +18,11 @@ export function AppHeader() {
   return (
     <header className="w-full h-16 lg:h-24 bg-neutral-900 text-white">
       <nav className="h-full px-4 flex items-center">
-        <ul className="h-full pl-10 flex-1 flex items-center justify-center gap-10">
+        <ul className="h-full pl-2 flex-1 flex items-center justify-start gap-10">
           <li>
             <Link
               href="/"
-              className="block w-24 text-center font-title font-bold italic text-lg lg:text-2xl opacity-40 data-[active=true]:opacity-100"
+              className="text-center font-title font-bold italic text-lg lg:text-2xl opacity-40 data-[active=true]:opacity-100"
               data-active={pathname === '/'}
             >
               Grilla
@@ -31,13 +31,14 @@ export function AppHeader() {
           <li>
             <Link
               href="/artists"
-              className="block w-24 text-center font-title font-bold italic text-lg lg:text-2xl opacity-40 data-[active=true]:opacity-100"
+              className="text-center font-title font-bold italic text-lg lg:text-2xl opacity-40 data-[active=true]:opacity-100"
               data-active={pathname === '/artists'}
             >
               Artistas
             </Link>
           </li>
         </ul>
+        <InstallDialog />
         <Dialog>
           <DialogTrigger className="size-10 flex items-center justify-center">
             <HelpCircleIcon className="size-6 text-white" />
