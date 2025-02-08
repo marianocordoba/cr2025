@@ -1,5 +1,7 @@
 @import 'tailwindcss';
 
+@plugin 'tailwindcss-animate';
+
 @theme {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
@@ -42,7 +44,7 @@
 
 @layer base {
   body {
-    @apply text-foreground bg-background font-sans antialiased;
+    @apply text-foreground bg-background font-sans antialiased overflow-hidden;
   }
 }
 

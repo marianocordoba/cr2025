@@ -38,7 +38,7 @@ export function ShowDetails({ show }: { show: Show }) {
   }
 
   return (
-    <div className="bg-white ">
+    <div>
       <div className="grid gap-1.5 p-4 text-center border-b border-slate-200 rounded-t-lg">
         <div className="relative w-full h-32">
           {show.artists.map((artist, i) => (
@@ -94,7 +94,7 @@ export function ShowDetails({ show }: { show: Show }) {
           </Button>
         </div>
       </div>
-      <div className="pt-2 px-4 flex flex-col bg-white border-t border-slate-200">
+      <div className="pt-2 px-4 flex flex-col border-t border-slate-200">
         <span className="pt-2 px-4 font-sans text-sm tracking-wider">
           Artistas
         </span>
@@ -118,7 +118,12 @@ export function ShowDetails({ show }: { show: Show }) {
                 {getSignificantCharacters(artist.name)}
               </AvatarFallback>
             </Avatar>
-            <ArtistLinks links={artist.links} />
+            <div className="flex-1 flex justify-between items-center gap-4">
+              <span className="flex-1 text-left text-sm font-semibold">
+                {artist.name}
+              </span>
+              <ArtistLinks links={artist.links} />
+            </div>
           </div>
         ))}
       </div>
