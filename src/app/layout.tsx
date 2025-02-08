@@ -22,6 +22,19 @@ const fontTitle = Barlow_Semi_Condensed({
 export const metadata: Metadata = {
   title: env.NEXT_PUBLIC_APP_NAME,
   description: env.NEXT_PUBLIC_APP_DESCRIPTION,
+  keywords: '',
+  robots: 'index, follow',
+  openGraph: {
+    type: 'website',
+    url: env.NEXT_PUBLIC_BASE_URL,
+    title: env.NEXT_PUBLIC_APP_NAME,
+    description: env.NEXT_PUBLIC_APP_DESCRIPTION,
+    siteName: env.NEXT_PUBLIC_APP_NAME,
+  },
+  twitter: {
+    card: 'summary_large_image',
+    site: env.NEXT_PUBLIC_BASE_URL,
+  },
   manifest: '/manifest.webmanifest',
   appleWebApp: {
     capable: true,
