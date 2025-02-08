@@ -1,18 +1,20 @@
 'use client'
 
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { Button } from '../ui/button'
 import { Dialog, DialogContent, DialogTitle } from '../ui/dialog'
 
 export function Disclaimer() {
-  const [open, setOpen] = useState(
-    localStorage.getItem('disclaimer') !== 'accepted',
-  )
+  const [open, setOpen] = useState(false)
 
   const handleAccept = () => {
     window.localStorage.setItem('disclaimer', 'accepted')
     setOpen(false)
   }
+
+  useEffect(() => {
+    setOpen(localStorage.getItem('disclaimer') !== 'accepted')
+  }, [])
 
   return (
     <Dialog open={open}>
