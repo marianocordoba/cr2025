@@ -1,6 +1,12 @@
 'use client'
 
-import { addMinutes, compareAsc, differenceInMinutes, format } from 'date-fns'
+import {
+  addMinutes,
+  compareAsc,
+  differenceInMinutes,
+  format,
+  isBefore,
+} from 'date-fns'
 import { useEffect, useRef, useState } from 'react'
 
 import days from '~/assets/data/days.json'
@@ -16,6 +22,10 @@ export function ScheduleView() {
   const now = useCurrentTime()
   const isMobile = useIsMobile()
   const [currentDay, setCurrentDay] = useState(() => {
+    if (isBefore(days[1].endsAt, now)) {
+      return days[0]
+    }
+
     return days.findLast((day) => compareAsc(now, day.startsAt) >= 0) ?? days[0]
   })
   const startsAt = currentDay.startsAt
@@ -60,6 +70,10 @@ export function ScheduleView() {
   // biome-ignore lint/correctness/useExhaustiveDependencies: This effect should only run once
   useEffect(() => {
     if (!scrollRef.current) {
+      return
+    }
+
+    if (isBefore(endsAt, now)) {
       return
     }
 
